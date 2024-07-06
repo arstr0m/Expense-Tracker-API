@@ -1,0 +1,8 @@
+fastapi
+redis
+motor~=3.5.0
+pymongo
+pydantic~=2.8.2
+pyjwt
+passlib
+bcrypt
